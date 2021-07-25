@@ -1,0 +1,1 @@
+int inner_loop(int i, char* text, char* pattern, int pattern_length);
